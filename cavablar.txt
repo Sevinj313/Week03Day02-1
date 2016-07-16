@@ -1,0 +1,76 @@
+1.Bu repo FORK edil?c?k
+2.FORK edilmis bu repoya cavablar.txt adinda bir text dakumenti ?lav? edil?c?k.
+3.cavablar.txt faylina asag?dak? suallar?n cavablar? (Az?rbaycan dilind?) yaz?lacaq.
+•	Duzgun v? oxunaql? CSS kodu yazmaq ucun laz?m olabil?c?k 10 qayda yaz?n
+•	Font Awesome kimi ikon fontlar? varm?? Varsa qisaca haqlarinda m?lumat verin
+•	Az?rbaycan sriftl?rini d?st?kl?y?n 10 ?d?d font ail?sinin ad?n? v? istifad? qaydas?n? yaz?n
+4.cavablar.txt ?lav? edilmis github repo linki Google Classroom a ?lav? edil?c?k.
+
+•	- Duzgun v? oxunaql? CSS kodu yazmaq ucun laz?m olabil?c?k 10 qayda yaz?n
+?g?r siz CSS d? kod yazmaga baslamazdan ?vv?l c?dv?ll?rl? sxem c?kin des?k, bu siz? dogurdan da q?rib? gorun? bil?r. Bu yaz? il? m?n siz? CSS d?  duzgun v? s?liq?li kod yazmag? oyr?d?c?m.
+1.	H?mis? CSS koda Reset il? baslamaq
+B?zi insanlar Reset code dan istifad?nin g?r?ksiz oldugunu deyirl?r.Lakin Siz bir d?f? istifad? ed?r?k ferqi gor?c?ksiz.Reset code il? isl?y?rk?n butun brauzerl?rd? kodlar ekranda cox asan bir s?kild? s?rgil?n? bilir.
+2.CSS kodlar?ni asan bir s?kild? oxunaql? etm?li
+N? vaxt ki sizin 500 s?tirli CSS code u yazm?sinizsa bu siz? qorxulu gorun? bil?r.CSS code u asagidaki kimi yaz?l?r:
+
+.classname {
+background: #FFF;
+border: 0;
+color: #252525;
+float: left;
+margin: 0;
+padding: 0;
+}
+ID -l?r CSS code lasdirmada scrollar?n qarsini almaga komek eden proqrami asan yolla yazmaga yardim eden vasitelerdendir.
+3.COMMENT l?r sizin ?n yaxs? dostunuzdur.
+
+/********** HEADER code here **********/
+COMMENT l?rin bir cox yararlar? vard?r.Bel?ki kod yazark?n s?hvl?ri askar etm?y? v?ya b?zi kodlar? muv?qq?ti olaraq gizl?tm?y?, proqrami ozumuz? aid yazd?gimiz kodlarla rahatl?qla idare ede bilm?y? kom?k edirl?r.
+4. One Rule = One Line…Multiple Rules = Multiple Lines- Bir Qayda=Bir s?tir... Cox qaydalar=Cox s?tirl?r
+.classname { border: 0; }
+
+.classname {
+	background: #FFF;
+	border: 0;
+	color: #252525;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+5. Kodlar?n ard?c?l olmas?
+6.S?rti elementl?ri v? hack lar? ay?rmal?
+7.Q?sa kodlar? oyr?nm?li v? istifade etm?li
+8.C?dv?l t?rkibl?rini yaratmal? v? istifade etm?li
+9. ID v? Class adlar?n? rahat izl?m?li
+10.?lifba s?ras? il? CSS code lar?n? asan oxumaq
+
+•	Font Awesome kimi ikon fontlar? varm?? Varsa qisaca haqlarinda m?lumat verin
+FontAwesome kimi elbette font ikonlari movcuddur. Bunlara Fontello, ICOMOON, Fontastic, GOOGLE FONT icons,GLYPHICONS, ENTYPO v? s.
+Brauzerler b?z?n @font-face istifadesi zaman problemlere sebeb olurlar. Ozelikle fontlarin taninmasinda. Bezen eyni brauzerin ferqli isletme sistemlerine gore ferqli neticeler verdiyini gormek olur. SVG ikon istifadesi zamani bu cur cetinliklerle qarsilasmaq mumkunsuzdur. SVG  ikon istifade etdiyiniz zaman SVG ni destekleyen IE9 ve ozunun brauzerlerinde rahatca goruntulenir.
+Sematik baximindan bezi ikon fontlari <div> ve ya <span> tegleri icerisinde taninmaya bilir. Lakin SVG ikonlari arasinda bucur problemle qarsilasa bilmezsiniz cunki SVG ikonlari sekil kimi gorunur brauzerlerde.
+Vektor ikonlari ile sekil formasinda olan ikonlarin en boyuk ferqleri :
+Sekil ikonlari daha cox yer tutur hemcinin boyuk sekil ikonlarini sehifelere yerlesdirdiyimiz zaman sehife gec acilir hemcinin kicik olculu sekiller boyudulerkenolundugu zaman yaxsi olmayan goruntuye   cevrilir.
+•	Az?rbaycan sriftl?rini d?st?kl?y?n 10 ?d?d font ail?sinin ad?n? v? istifad? qaydas?n? yaz?n
+LOTO fontu,
+ ABELPRO, 
+ANBELLE,
+ ALDO, 
+ BANANA YETI,
+ Kaushan 
+karikatur,
+ LARISA
+ SCRIPT, 
+MARCK SCRIPT,
+ META ,
+MANUFAKTUR
+
+
+
+
+
+
+
+
+
+
+
